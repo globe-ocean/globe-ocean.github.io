@@ -6,7 +6,7 @@
   "definition_url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso/roni/",
   "baseline": "1991–2020 (current CPC definition; confirm upon upstream product changes)",
   "units": "degree_C",
-  "retrieved_at": "2026-11-26T17:03:21Z",
+  "retrieved_at": "2026-11-27T16:49:11Z",
   "records": [
     {
       "season": "DJF",
